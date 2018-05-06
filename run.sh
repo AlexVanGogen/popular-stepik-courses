@@ -1,0 +1,1 @@
+./build/install/popular-stepik-courses/bin/popular-stepik-courses $@
